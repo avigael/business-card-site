@@ -1,0 +1,82 @@
+html{
+  background-color: #042CFF;
+}
+body {
+  font-family: 'Ubuntu', sans-serif;
+  color: rgb(255, 255, 255);
+  line-height: 1.4;
+}
+
+h1 {
+  font-size: 40px;
+  font-weight: 700;
+  margin:0;
+}
+
+p {
+  margin: 0;
+}
+
+div {
+  font-size: 20px;
+  font-weight: 300;
+}
+
+a {
+  color: rgb(255, 255, 255);
+  text-decoration-line: none;
+}
+
+a:hover, a:active, a:focus {
+  font-weight: 500;
+}
+
+img {
+  position: absolute;
+  top: 50px;
+  right: 80px;
+  height: 400px;
+  -webkit-user-drag: none;
+}
+
+#card {
+  border-radius: 30px;
+  background: #042CFF;
+  padding: 50px;
+  width: 700px;
+  height: 400px;
+  box-shadow: 0px 0px 50px rgb(15, 13, 136);
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+}
+
+#contact {
+  position: absolute;
+  bottom: 50px;
+}
+
+@media only screen
+and (max-device-width : 800px) {
+  #card {
+    border-radius: 30px;
+    background: #042CFF;
+    padding: 50px;
+    width: 300px;
+    height: 400px;
+    box-shadow: 0px 0px 50px  rgb(15, 13, 136);
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+  }
+
+  img {
+    position: absolute;
+    top: 370px;
+    right: 50px;
+    height: 80px;
+    -webkit-user-drag: none;
+  }
+}
