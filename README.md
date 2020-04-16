@@ -1,5 +1,6 @@
 Github-Pages Template
 === 
+[![Version] (https://img.shields.io/badge/last%20commit-april%202020-red)]
 [![License](https://img.shields.io/badge/license-MIT-green.svg)](LICENSE)
 
 I made this website to function similarly to a business card. A business card really only contains basic information. I am hosting my personal website through Github and prefer this minimalist design because it is straight to the point. Because this website is so simple, it is very easy to edit so feel free to use it for your own website. 
