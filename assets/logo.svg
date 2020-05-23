@@ -1,24 +1,10 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
-<svg width="100%" height="100%" viewBox="0 0 280 280" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xml:space="preserve" xmlns:serif="http://www.serif.com/" style="fill-rule:evenodd;clip-rule:evenodd;stroke-linecap:square;stroke-miterlimit:1.5;">
-    <rect id="Artboard1" x="0" y="0" width="280" height="280" style="fill:none;"/>
-    <clipPath id="_clip1">
-        <rect id="Artboard11" serif:id="Artboard1" x="0" y="0" width="280" height="280"/>
-    </clipPath>
-    <g clip-path="url(#_clip1)">
-        <g id="dna-logo" serif:id="dna logo" transform="matrix(0.507793,0,0,0.507793,-488.663,-1449.05)">
-            <g transform="matrix(4.16667,0,0,4.16667,-228.593,1242.93)">
-                <path d="M300,500L340,480L340,460L300,440L300,420L340,400" style="fill:none;stroke:rgb(43,45,54);stroke-width:15px;"/>
-            </g>
-            <g transform="matrix(4.16667,0,0,4.16667,-228.593,1242.93)">
-                <path d="M340,500L300,480L300,460L340,440L340,420L300,400" style="fill:none;stroke:rgb(43,45,54);stroke-width:15px;"/>
-            </g>
-            <g transform="matrix(4.16667,0,0,4.16667,42.2408,1242.93)">
-                <path d="M300,500L340,480L340,460L300,440L300,420L340,400" style="fill:none;stroke:rgb(43,45,54);stroke-width:15px;"/>
-            </g>
-            <g transform="matrix(4.16667,0,0,4.16667,42.2408,1242.93)">
-                <path d="M340,500L300,480L300,460L340,440L340,420L300,400" style="fill:none;stroke:rgb(43,45,54);stroke-width:15px;"/>
-            </g>
+<svg width="100%" height="100%" viewBox="0 0 699 556" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xml:space="preserve" xmlns:serif="http://www.serif.com/" style="fill-rule:evenodd;clip-rule:evenodd;stroke-linejoin:round;stroke-miterlimit:2;">
+    <g id="Artboard1" transform="matrix(1,0,0,1.05275,-192.07,-305.312)">
+        <rect x="192.07" y="290.013" width="698.587" height="527.543" style="fill:none;"/>
+        <g transform="matrix(4.64216,0,0,4.40955,-316.761,-89.175)">
+            <text x="116.353px" y="174.83px" style="font-family:'RobotoSlab-SemiBold', 'Roboto Slab';font-weight:600;font-size:116.522px;fill:rgb(210,210,210);">/<tspan x="147.85px 187.654px " y="174.83px 174.83px ">/g</tspan></text>
         </g>
     </g>
 </svg>
