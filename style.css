@@ -1,84 +1,123 @@
-html{
-  background-color: #eff1f7;
+html {
+  background-color: #004ce4;
 }
+
 body {
-  font-family: 'Roboto Slab', serif;
-  color: #3b3b41;
+  font-family: "Roboto Slab", serif;
+  color: #ffffff;
   line-height: 1.4;
 }
 
 h1 {
-  font-size: 41px;
+  font-size: 60px;
   font-weight: 700;
   margin: 0;
 }
 
-p {
-  margin: 0;
-}
-
-div {
-  font-size: 25px;
-  font-weight: 300;
-}
-
 a {
-  color: #3b3b41;
+  font-size: 30px;
+  color: #ffffff;
   text-decoration-line: none;
 }
 
-a:hover, a:active, a:focus {
+a:hover,
+a:active,
+a:focus {
   font-weight: 700;
 }
 
 img {
   position: absolute;
-  top: 370px;
-  right: 45px;
+  top: 365px;
+  right: 51px;
   height: 75px;
   -webkit-user-drag: none;
 }
 
-#card {
+.card {
   border-radius: 30px;
-  background: #eff1f7;
+  background: #004ce4;
   padding: 40px 50px 50px 50px;
   width: 700px;
   height: 400px;
-  box-shadow: 0px 0px 200px #999a9e;
+  box-shadow: 0px 0px 200px #0000008a;
   position: absolute;
   top: 50%;
   left: 50%;
   transform: translate(-50%, -50%);
 }
 
-#contact {
+#content {
+  font-size: 35px;
+  font-weight: 300;
+}
+
+#contacts {
   position: absolute;
   bottom: 50px;
 }
 
-@media only screen
-and (max-device-width : 800px) {
-  #card {
-    width: 250px;
+@media only screen and (max-device-width: 800px) {
+  .card {
+    width: 600px;
+    height: 300px;
   }
 
   img {
-    display: none;
+    top: 265px;
+  }
+
+  h1 {
+    font-size: 40px;
+  }
+
+  a {
+    font-size: 25px;
+  }
+
+  #content {
+    font-size: 25px;
   }
 }
 
-@media only screen
-and (max-device-width : 360px) {
-  h1{
-    line-height: 1;
+@media only screen and (max-device-width: 700px) {
+  .card {
+    width: 400px;
+    height: 300px;
   }
+}
 
-  #card {
-    width: 200px;
+@media only screen and (max-device-width: 500px) {
+  .card {
+    width: 300px;
+    height: 350px;
   }
 
   img {
-    display: none;
+    top: 315px;
+  }
+}
+
+@media only screen and (max-device-width: 400px) {
+  .card {
+    width: 200px;
+    height: 250px;
+  }
+
+  img {
+    top: 245px;
+    height: 45px;
+  }
+
+  h1 {
+    font-size: 27px;
+  }
+
+  a {
+    font-size: 20px;
+  }
+
+  #content {
+    font-size: 20px;
   }
 }

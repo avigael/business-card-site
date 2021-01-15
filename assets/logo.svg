@@ -1,10 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
-<svg width="100%" height="100%" viewBox="0 0 699 556" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xml:space="preserve" xmlns:serif="http://www.serif.com/" style="fill-rule:evenodd;clip-rule:evenodd;stroke-linejoin:round;stroke-miterlimit:2;">
-    <g id="Artboard1" transform="matrix(1,0,0,1.05275,-192.07,-305.312)">
-        <rect x="192.07" y="290.013" width="698.587" height="527.543" style="fill:none;"/>
-        <g transform="matrix(4.64216,0,0,4.40955,-316.761,-89.175)">
-            <text x="116.353px" y="174.83px" style="font-family:'RobotoSlab-SemiBold', 'Roboto Slab';font-weight:600;font-size:116.522px;fill:rgb(210,210,210);">/<tspan x="147.85px 187.654px " y="174.83px 174.83px ">/g</tspan></text>
-        </g>
-    </g>
+<svg width="100%" height="100%" viewBox="0 0 34 54" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xml:space="preserve" xmlns:serif="http://www.serif.com/" style="fill-rule:evenodd;clip-rule:evenodd;stroke-linejoin:round;stroke-miterlimit:2;">
+    <path d="M17,33C10,33 6,30 6,27C6,24 10,21 17,21C24,21 28,24 28,27C28,30 24,33 17,33M34,27C34,22 31,19 26,17L31,9L25,6L20,15L20,0L14,0L14,15L9,6L3,9L8,17C3,19 0,22 0,27C0,32 3,35 8,37L3,45L9,48L14,39L14,54L20,54L20,39L25,48L31,45L26,37C31,35 34,32 34,27" style="fill:white;fill-rule:nonzero;"/>
 </svg>
